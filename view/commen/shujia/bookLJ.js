@@ -1,0 +1,17 @@
+export default bookLJ= {
+    华氏451:require('./books/book1.png'),
+    明朝那些事儿:require('./books/book2.png'),
+    北欧众神:require('./books/book3.png'),
+    浮生六记:require('./books/book4.png'),
+    活着:require('./books/book5.png'),
+    梦里花落知多少:require('./books/book6.png'),
+    济南的冬天:require('./books/book7.png'),
+    消失的地平线:require('./books/book8.png'),
+    牛虻:require('./books/book9.png'),
+    双城记:require('./books/book10.png'),
+    唐诗三百首:require('./books/book11.png'),
+    骆驼祥子:require('./books/book12.png'),
+    心安:require('./books/book13.png'),
+    三国演义:require('./books/book15.png'),
+    林徽因全集:require('./books/book16.png'),
+};

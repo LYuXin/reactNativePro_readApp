@@ -1,0 +1,26 @@
+[
+    {
+        "username":"张三",
+        "header":"require('../../Images/头像14.png')"
+    }
+    ,{
+        "username":"李四",
+        "header":"require('../../Images/头像12.png')"
+    }
+    ,{
+        "username":"王五",
+        "header":"require('../../Images/头像2.png')"
+    }
+    ,{
+        "username":"刘六",
+        "header":"require('../../Images/头像3.png')"
+    }
+    ,{
+        "username":"赵明",
+        "header":"require('../../Images/头像4.png')"
+    }
+    ,{
+        "username":"啦啦",
+        "header":"require('../../Images/头像7.png')"
+    }
+]
